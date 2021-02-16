@@ -545,8 +545,7 @@ body {
   background-size: cover;
   background-position: top;
   clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
-  position: relative;
-  z-index: 1000; }
+  position: relative; }
   @media (max-width: 75em) {
     .header {
       clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
